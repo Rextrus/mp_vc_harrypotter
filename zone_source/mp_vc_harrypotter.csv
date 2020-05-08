@@ -1,0 +1,13 @@
+ignore,code_post_gfx_mp
+ignore,common_mp
+ignore,localized_code_post_gfx_mp
+ignore,localized_common_mp
+col_map_mp,maps/mp/mp_vc_harrypotter.d3dbsp
+impactfx,mp_vc_harrypotter
+sound,harrypotter,,all_mp
+
+rawfile,maps/mp/mp_vc_harrypotter.gsc
+
+
+
+
